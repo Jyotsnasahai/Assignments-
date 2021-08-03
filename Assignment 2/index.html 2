@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Phone Book</title>
+</head>
+<body>
+    <div>Phone Contact List</div>
+    <br><br><br><br>
+    <span>A</span>
+    <br>
+    <ol>
+        <li>Aakshit</li>
+        <li>Aashish</li>
+        <li>Anubhav</li>
+        <li>Akriti</li>
+        <li>Anju</li>
+    </ol> 
+    <br><br>
+    <span>B</span>
+    <br>
+    <ol>
+        <li>Bhavesh</li>
+        <li>Bhumit</li>
+        <li>Bibin</li>
+        <li>Bijender</li>
+        <li>Bob</li>
+    </ol>
+    <br><br>
+    <span>C</span>
+    <br>
+    <ol>
+        <li>Chanchal</li>
+        <li>Chaya</li>
+        <li>Chitrakshi</li>
+        <li>Chirag</li>
+        <li>Chitrangna</li>
+    </ol>
+    <br><br>
+    <span>D</span>
+    <br>
+    <ol>
+        <li>Devesh</li>
+        <li>Deepak</li>
+        <li>Dhruv</li>
+        <li>Dhruvita</li>
+        <li>Divyansh</li>
+    </ol>
+    <br><br>
+    <span>E</span>
+    <br>
+    <ol>
+        <li>Eashita</li>
+        <li>Edwin</li>
+        <li>Edith</li>
+        <li>Elena</li>
+        <li>Eva</li>
+    </ol>
+    <span>F</span>
+    <br>
+    <ol>
+        <li>Faisal</li>
+        <li>Fallen</li>
+        <li>Fatima</li>
+        <li>Fedrick</li>
+        <li>Fuler</li>
+    </ol>
+    <br><br>
+    <span>G</span>
+    <br>
+    <ol>
+        <li>Gabe</li>
+        <li>Gaeriel</li>
+        <li>Garima</li>
+        <li>Gautam</li>
+        <li>Gene</li>
+    </ol>
+    <br><br>
+    <span>H</span>
+    <br>
+    <ol>
+        <li>Himanshu</li>
+        <li>Harry</li>
+        <li>Harsh</li>
+        <li>Henry</li>
+        <li>Himen</li>
+    </ol>
+    <br><br>
+    <span>I</span>
+    <br>
+    <ol>
+        <li>Ian</li>
+        <li>Ileana</li>
+        <li>Ishika</li>
+        <li>Ishank</li>
+        <li>Ishu</li>
+        
+    </ol>
+    <br><br>
+    <span>J</span>
+    <br>
+    <ol>
+        <li>Jagmohan</li>
+        <li>Jagrit</li>
+        <li>Jagdish</li>
+        <li>Jones</li>
+        <li>June</li>
+    </ol>
+    <br><br>
+    <span>K</span>
+    <br>
+    <ol>
+        <li>Kabir</li>
+        <li>Kat</li>
+        <li>Kanishk</li>
+        <li>Krishten</li>
+        <li>Kunal</li>
+    </ol>
+    <br><br>
+    <span>J</span>
+    <br>
+    <ol>
+        <li>Lakshay</li>
+        <li>Lauren</li>
+        <li>Lavisha</li>
+        <li>Laxmi</li>
+        <li>Lucky</li>
+    </ol>
+</body>
+</html>
